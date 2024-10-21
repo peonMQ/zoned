@@ -30,7 +30,7 @@ local function autoMapHeightFilter()
         chardok = {min = 60, max = 60},
         kaesora = {min = 20, max = 20},
         karnor = {min = 20, max = 20},
-        sebilis = {min = 20, max = 20},
+        sebilis = {min = 30, max = 30},
 
         -- velious
         sirens = {min = 50, max = 50},
