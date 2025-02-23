@@ -24,7 +24,7 @@ local function autoMapHeightFilter()
 
         --planes
         hateplane = {min = 20, max = 20},
-        airplane = {min = 20, max = 20},
+        airplane = {min = 40, max = 40},
 
         -- kunark
         chardok = {min = 60, max = 60},
